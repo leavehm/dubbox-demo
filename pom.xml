@@ -3,7 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.wdkedu.dubbox.demo</groupId>
+	<groupId>com.hm1.dubbox.demo</groupId>
 	<artifactId>dubbox-provider-demo</artifactId>
 	<packaging>war</packaging>
 	<version>1.0.0-SNAPSHOT</version>
@@ -157,7 +157,6 @@
 	</dependencies>
 
 	<build>
-		<!-- 升级时注意修改 该版本号 -->
 		<finalName>dubbox-provider-demo</finalName>
 		<sourceDirectory>src/main/java</sourceDirectory>
 		<resources>
