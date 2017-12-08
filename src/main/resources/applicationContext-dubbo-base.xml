@@ -14,5 +14,5 @@
 	<dubbo:service interface="com.dubbox.provider_demo.service.HelloService" ref="helloService" />     
 	
 	<dubbo:service interface="com.dubbox.provider_demo.service.WorldService" ref="worldService" />     
-	
+
 </beans>
